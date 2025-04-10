@@ -1,0 +1,157 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+@font-face {
+    font-family: "annlieef-extrabold";
+    src: url("fontes/annlieef-extrabold.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Comfortaa";
+    src: url("fontes/Comfortaa/Comfortaa-VariableFont_wght.ttf")
+        format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    font-family: "Comfortaa", sans-serif;
+    background-color: #fff;
+    color: #000;
+}
+
+.topbar {
+    display: flex;
+    height: 10vh;
+    justify-content: space-between;
+    align-items: center;
+    background: #fff;
+    padding: 15px 25vw;
+    margin: 0 auto;
+    border-bottom: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+.logo {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    gap: 1vw;
+}
+
+.logo img {
+    height: 100%;
+}
+
+.logo-text { font-family: "Comfortaa"
+    font-size: 75%;
+    line-height: 1.2;
+}
+
+.logo-title {
+    font-family: "annlieef-extrabold", sans-serif;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+}
+
+nav ul {
+    display: flex;
+    gap: 2rem;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav a {
+    text-decoration: none;
+    color: #000;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: #67e26dff;
+}
+
+.hero {
+    position: relative;
+    height: 75vh;
+    justify-content: space-between;
+    overflow: hidden;
+    font-family: "Comfortaa", sans-serif;
+}
+
+.background {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    filter: brightness(0.5) blur(5px);
+    z-index: 0;
+}
+
+.hero-content {
+    position: relative;
+    z-index: 1;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100%;
+    padding: 100px;
+}
+
+.hero-content.centered {
+    justify-content: center;
+}
+
+.hero-icon {
+    height: 100%;
+}
+
+.text-block {
+    color: #fff;
+    max-width: 50%;
+}
+
+.text-block h1 {
+    font-size: 30px;
+}
+
+.text-block h2 {
+    font-size: 28px;
+    margin-top: 10px;
+}
+
+.highlight {
+    font-size: 24px;
+    color: #ff034dff;
+    margin: 10px 0;
+}
+
+.cta-button {
+    display: inline-block;
+    background-color: #ff034dff;
+    color: white;
+    padding: 10px 20px;
+    font-weight: bold;
+    border-radius: 15px;
+    text-decoration: none;
+    margin-top: 10px;
+}
+
+
+
+.about {
+    text-align: center;
+    padding: 30px;
+    font-size: 20px;
+}

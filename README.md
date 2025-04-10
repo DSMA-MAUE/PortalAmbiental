@@ -1,2 +1,2 @@
-# D.S.M.A.
-The website for The Diretoria de Saúde e Meio Ambiente of the Student's Association of the IFG Campus Valparaíso de Goiás
+# Portal Verde
+O Site da Diretoria de Saúde e Meio Ambiente do Grêmio Estudantil do IFG Campus Valparaíso
