@@ -1,0 +1,7 @@
+
+git status #  if not on dev then git checkout dev
+git pull origin main
+git status
+git add .
+git commit -m "Your commit message here"
+git push origin dev
