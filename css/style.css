@@ -23,29 +23,7 @@ body {
     font-family: "Comfortaa", sans-serif;
     background-color: #fff;
     color: #000;
-}
-
-.topbar {
-    display: flex;
-    height: 10vh;
-    justify-content: space-between;
-    align-items: center;
-    background: #fff;
-    padding: 15px 10vw;
-    margin: 0 auto;
-    border-bottom: 1px solid #ccc;
-    box-sizing: border-box;
-}
-
-.logo {
-    height: 100%;
-    display: flex;
-    align-items: center;
-    gap: 1vw;
-}
-
-.logo img {
-    height: 100%;
+    min-width: 183px;
 }
 
 .logo-text {
@@ -57,13 +35,20 @@ body {
     font-size: 150%;
 }
 
+@media (max-width: 277px) {
+    .logo-title {
+        display: none;
+    }
+}
+
 .other-logo-text {
     font-size: 60%;
 }
 
-nav {
-    display: flex;
-    align-items: center;
+@media (max-width: 768px) {
+    .other-logo-text {
+        display: none;
+    }
 }
 
 nav ul {
@@ -74,14 +59,9 @@ nav ul {
     padding: 0;
 }
 
-nav a {
-    text-decoration: none;
-    color: #000;
-    font-weight: bold;
-}
-
-nav a:hover {
-    color: #67e26dff;
+.navbar-nav .nav-link.active {
+  color: #33a966ff;
+  font-weight: bold;
 }
 
 .hero {
@@ -113,32 +93,36 @@ nav a:hover {
     padding: 100px;
 }
 
-.hero-content.centered {
-    justify-content: center;
-}
-
 .hero-icon {
     height: 100%;
 }
 
-.text-block {
+.hero-text {
     color: #fff;
     max-width: 50%;
+    text-size = 24px;
+    text-align: left;
 }
 
-.text-block h1 {
-    font-size: 30px;
+@media (max-width: 900px) {
+    .hero-icon {
+        display: none;
+    }
+
+    .hero-content {
+        justify-content: center;
+        padding: 0;
+    }
+
+    .hero-text {
+        text-align: center;
+    }
 }
 
-.text-block h2 {
-    font-size: 28px;
-    margin-top: 10px;
-}
-
-.highlight {
-    font-size: 24px;
+.highlighted-hero-text_1 {
     color: #ff034dff;
     margin: 10px 0;
+    text-size = 30px;
 }
 
 .cta-button {
@@ -153,8 +137,25 @@ nav a:hover {
     margin-top: 10px;
 }
 
+@media (max-width: 425px) {
+    .cta-button {
+        display: inline-block;
+        background-color: #ff034dff;
+        color: white;
+        font-weight: bold;
+        font-size: 1rem;
+        text-decoration: none;
+        margin-top: 10px;
+    }
+}
+
 .about {
     text-align: center;
     padding: 30px;
     font-size: 20px;
+}
+
+.bg-dsma-green {
+    background-color: #027460ff;
+    color: white;
 }
