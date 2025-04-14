@@ -209,3 +209,9 @@ nav ul {
     display: block;
     width: 192px;
 }
+
+.greengradbk {
+    background: linear-gradient(.5deg, #33a966ff, #67e26dff);
+    background-color: white;
+    color: white;
+}
