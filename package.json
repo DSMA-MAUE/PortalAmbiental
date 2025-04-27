@@ -1,0 +1,23 @@
+{
+  "name": "portalambiental",
+  "version": "1.0.0",
+  "description": "**Site da Diretoria de Saúde e Meio Ambiente — Grêmio Estudantil IFG - Campus Valparaíso**",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Diretoria-de-Saude-e-Meio-Ambiente/PortalAmbiental.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Diretoria-de-Saude-e-Meio-Ambiente/PortalAmbiental/issues"
+  },
+  "homepage": "https://github.com/Diretoria-de-Saude-e-Meio-Ambiente/PortalAmbiental#readme",
+  "dependencies": {
+    "bootstrap-icons": "^1.11.3"
+  }
+}
