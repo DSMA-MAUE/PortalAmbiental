@@ -27,7 +27,7 @@ O principal objetivo deste projeto é divulgar ações, projetos, campanhas e in
 
 ## 👨‍💻 Desenvolvedores
 
-- **Miguel Jorge F.** – Diretor da D.S.M.A. e responsável pelo desenvolvimento do website.  
+- **ForgeWorks** – Diretor da D.S.M.A. e responsável pelo desenvolvimento do website.  
 
 ---
 
