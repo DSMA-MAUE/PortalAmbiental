@@ -37,7 +37,7 @@ O principal objetivo deste projeto é divulgar ações, projetos, campanhas e in
 - Instituto Federal de Goiás – Campus Valparaíso  
 - Instagram: [@gremio.ifgvalparaiso](https://www.instagram.com/gremio.ifgvalparaiso)  
 - Email: [gremio.ifgvalparaiso@gmail.com](mailto:gremio.ifgvalparaiso@gmail.com)  
-- GitHub: [@Max9th](https://github.com/Max9th)
+- GitHub: [@ForgeWorks](https://github.com/forgeworksdev)
 
 ---
 
