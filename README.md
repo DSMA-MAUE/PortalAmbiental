@@ -1,5 +1,5 @@
 # 🌱 Portal Ambiental 🌱 
-**Site da Diretoria de Saúde e Meio Ambiente — Grêmio Estudantil IFG - Campus Valparaíso**
+**Site da Diretoria de Saúde e Meio Ambiente — Grêmio Estudantil MAUE - IFG Campus Valparaíso**
 
 Este repositório contém o código-fonte do **Portal Ambiental**, o site oficial da Diretoria de Saúde e Meio Ambiente (D.S.M.A.) do Grêmio Estudantil do Instituto Federal de Goiás — Campus Valparaíso.
 
