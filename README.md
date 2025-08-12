@@ -41,7 +41,7 @@ O status do projeto é desconhecido
 - Instituto Federal de Goiás – Campus Valparaíso  
 - Instagram: [@gremio.ifgvalparaiso](https://www.instagram.com/gremio.ifgvalparaiso)  
 - Email: [gremio.ifgvalparaiso@gmail.com](mailto:gremio.ifgvalparaiso@gmail.com)  
-- GitHub: [@forgeworksdev](https://github.com/forgeworksdev)
+- E-mail (Acessoria): [@forgeworksdev](https://github.com/forgeworks)
 
 ---
 
