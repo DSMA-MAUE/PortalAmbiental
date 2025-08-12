@@ -27,9 +27,11 @@ O principal objetivo deste projeto é divulgar ações, projetos, campanhas e in
 
 ## 👨‍💻 Desenvolvedores
 
-<!--
-- **ForgeWorks** – Diretor da D.S.M.A. e responsável pelo desenvolvimento do website.  
--->
+Ex-desenvolvedores:
+
+- **ForgeWorks** – Ex-diretor da D.S.M.A. e responsável pelo desenvolvimento do website.  
+
+O status do projeto é desconhecido 
 
 ---
 
